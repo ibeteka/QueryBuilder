@@ -6,7 +6,7 @@ namespace lib\QueryBuilder;
 
 /**
  * 
- * @author xan_tounkara
+ * @author Ibeteka
  *
  */
 class BindParameters {
