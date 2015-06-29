@@ -21,7 +21,7 @@ class Table {
 	public function __construct($array){
 		$this->output_fields 	= array();
 		$this->filters_options	= array();
-		$this->bind_params		= array();
+		$this->bind_params	= array();
 
 	
 		if(is_array($array['OUTPUT_FIELDS']) == true){
