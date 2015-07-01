@@ -4,7 +4,7 @@ namespace lib\QueryBuilder;
 
 
 /**
- * @author Ibeteka
+ * @author Ibrahim Tounkara
  * Represents a table in a SQL Request
  */
 
