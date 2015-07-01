@@ -7,7 +7,7 @@ use lib\QueryBuilder\Table;
 
 
 /**
- * @author Ibeteka
+ * @author Ibrahim Tounkara
  * Build different type of SQL Request
  */
 
