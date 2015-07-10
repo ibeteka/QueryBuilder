@@ -5,10 +5,10 @@ namespace lib\QueryBuilder;
 
 
 /**
- * 
- * @author Ibrahim Tounkara
- *
+ * @author Ibrahim Tounkara (PHP/Symfony Backend Developer)
  */
+ 
+ 
 class BindParameters {
 	
 	private $placeholders;
